@@ -1,0 +1,21 @@
+{
+  "name": "dandy",
+  "displayName": "dandy",
+  "description": "A refreshing color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dandy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dandy-color-theme.json"
+      }
+    ]
+  }
+}
